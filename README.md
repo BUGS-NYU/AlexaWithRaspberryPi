@@ -1,1 +1,2 @@
 # AlexaWithRaspberryPi
+Mentor is EJ
